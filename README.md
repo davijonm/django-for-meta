@@ -1,8 +1,6 @@
-Django project for Meta
-
 # install pipenv, activate virtual environment and install this Dependencies
 
-django = "*"
-mysqlclient = "*"
-djangorestframework = "*"
-djoser = "*"
+django = "_"
+mysqlclient = "_"
+djangorestframework = "_"
+djoser = "_"
